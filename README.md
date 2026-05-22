@@ -21,7 +21,7 @@ Neste projeto, pratiquei conceitos fundamentais de programação, como:
 - Variáveis
 - Condicionais
 - Laços de repetição
-- Organização de Menusgi
+- Organização de Menus
 - Funções
 
 ```bash
