@@ -1,12 +1,3 @@
-echo "# sistema-bancario-em-python" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SidneyXavierFilho1/sistema-bancario-em-python.git
-git push -u origin main
-
-
 saldo = float(1000)
 historico = []
 
